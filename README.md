@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshu73030
 - 👀 I’m interested in AI,Data Science,Web Devlopment
 - 🌱 I’m currently learning Python,Javascript,C++,react.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any python and web development projects
 - 📫 How to reach me email:-himanshubhalala73030@gmail.com 
 
 <!---
