@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A passionate software developer from India</h3>
+-🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**
 
 - 🌱 I’m currently learning **ML,Django**
 
