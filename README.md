@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **himanshubhalala73030@gmail.com**
 
-- ⚡ Fun fact **I like to watch movies and series**
+- ⚡ Fun fact **I enjoy watching movies and series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
